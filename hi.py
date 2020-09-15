@@ -10,7 +10,7 @@ def main():
 		name = sys.argv[1]
 
 	for i in range(count):
-		print("Hello2 Integration~",str(name),i)
+		print("Hello2 Release~",str(name),i)
 
 if __name__ == "__main__":
 	main()
